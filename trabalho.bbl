@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{Chakrabarti1989}
+Ghose S. Acharya~A. Chakrabarti, P.~P. and S.~C. de~Sarkar.
+\newblock Heuristic search in restricted memory.
+\newblock {\em Artif. Intell}, 41(2):197--221, Dec. 1989.
+
+\bibitem{Dillenburg1994}
+J.~F. Dillenburg and P.~C. Nelson.
+\newblock Perimeter search.
+\newblock {\em Artif. Intell}, 1994.
+
+\bibitem{Korf1993}
+R.~E. Korf.
+\newblock Linear-space best-first search.
+\newblock {\em Artif. Intell}, 62(1):97--109, July 1993.
+
+\bibitem{Korf1995}
+R.~E. Korf.
+\newblock Space-efficient search algorithms.
+\newblock {\em ACM Computing Surveys}, 27(3):337--339, 1995.
+
+\end{thebibliography}
